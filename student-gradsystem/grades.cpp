@@ -3,9 +3,5 @@ using namespace std;
 
 void printGrade()
 {
-    void printStatus()
-    {
-        cout << "Status: Passed" << endl;
-    }
-
+    cout << "Grade: Excellent wowow" << endl;
 }
